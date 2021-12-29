@@ -4,4 +4,4 @@ Purpose; to bring "The Labrats" together as a community token through discord/yo
 
 If anyone would like to donate to the cause, my Bitcoin P-Address is; "bc1q68hk7v7cvz2g60xgsjmkkkdv4nad65d4g9dwtg".
 
-Disclaimer; "Barry Labs $BLAB" is beginning its trek as a community token and is not currently intended as a fully-fledged token project. I am not a Certified Financial Advisor or a Certified Public Accountant and there is currently no backing for "Barry Labs" token.
+Disclaimer; "Barry Labs $BLAB" is beginning its trek as a community token and is not currently intended as a fully-fledged token project. Take part as your own discretion as there is no utility as of yet.
