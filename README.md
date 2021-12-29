@@ -1,6 +1,6 @@
 # BarryLabs-Library
 
-Purpose; to bring "The Labrats" together as a community token through discord/youtube and in the future; provide incentives, discounts as well as utility among the Solana Ecosystem. A planned informational aggregator as well as betting and gambling security protocols.
+Purpose; to bring "The Labrats" together as a community token through discord/youtube and in the future; provide incentives, discounts as well as utility among the Solana Ecosystem. An informational aggregator as well as betting and gambling security protocols intent on providing peace of mind and quality of life to everybody's favorite past-times; Learning and anonymized local betting.
 
 If anyone would like to donate to the cause, my Bitcoin P-Address is; "bc1q68hk7v7cvz2g60xgsjmkkkdv4nad65d4g9dwtg".
 
